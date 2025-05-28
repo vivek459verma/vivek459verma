@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a project for travel agency Skip with Trip. <br>As a backend developer. I'm building out the API endpoints for their<br>new website, It's pretty cool—think curated experiences, not just flights<br>and hotels.
+I'm currently working on a project for travel agency Skip with Trip, as a backend developer. I'm building out the API endpoints for their new website. It's pretty cool—think curated experiences, not just flights and hotels.
 
 
 ## 🌐 Socials:
