@@ -1,9 +1,19 @@
-# 💫 About Me:
-Hi, I’m Vivek, a passionate Web Developer with a strong foundation in the MERN stack and MySQL. I enjoy building scalable, user-focused applications and continuously improving my problem-solving skills.
 
-Currently, I’m working as a Web Developer Intern at K.R. Mangalam University (KRMU), where I develop and optimize web-based solutions. My work involves building API endpoints, improving performance, and ensuring seamless data flow across applications. This experience has helped me gain practical exposure to real-world development, focusing on scalability and clean architecture.
+const vivek = {
+  role: "Full Stack Developer, specialization in AI/ML",
+  stack: ["MERN", "Next.js", "MySQL", "MongoDB", "Tailwind CSS"  ],
+  currentFocus: "Building scalable & production-ready apps",
+  funFact: "I turn coffee ☕ into code 💻"
+};
+export default vivek;
 
-I love turning ideas into functional products and exploring new technologies that enhance user experience. Whether it's frontend design or backend logic, I enjoy working across the stack to create impactful solutions.
+# 💫 In Crisp:
+
+🚀 MERN Stack Developer | Problem Solver  
+💻 Passionate about building scalable web applications  
+🌱 Currently exploring Next.js & system design  
+⚡ Love turning ideas into real-world products 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vivek459verma1699) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_have_vivek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekverma459) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivek459verma@gmail.com) 
 
