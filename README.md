@@ -1,11 +1,15 @@
+# 💫 About Me:
+```js
+# Use Recruiter
 
-const vivek = {
+export const vivek = {
   role: "Full Stack Developer, specialization in AI/ML",
-  stack: ["MERN", "Next.js", "MySQL", "MongoDB", "Tailwind CSS"  ],
-  currentFocus: "Building scalable & production-ready apps",
-  funFact: "I turn coffee ☕ into code 💻"
+  stack: ["MERN", "Next.js", "MySQL", "MongoDB", "Tailwind CSS"], 
+  currentFocus: "Building scalable & production-ready apps", 
+  funFact: "I turn coffee ☕ into code 💻" 
 };
-export default vivek;
+
+```
 
 # 💫 In Crisp:
 
