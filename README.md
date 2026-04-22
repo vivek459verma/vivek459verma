@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Vivek — a passionate Web Developer with a strong foundation in the MERN stack and MySQL. I enjoy building scalable, user-focused applications and continuously improving my problem-solving skills.
+Hi, I’m Vivek, a passionate Web Developer with a strong foundation in the MERN stack and MySQL. I enjoy building scalable, user-focused applications and continuously improving my problem-solving skills.
 
 Currently, I’m working as a Web Developer Intern at K.R. Mangalam University (KRMU), where I develop and optimize web-based solutions. My work involves building API endpoints, improving performance, and ensuring seamless data flow across applications. This experience has helped me gain practical exposure to real-world development, focusing on scalability and clean architecture.
 
