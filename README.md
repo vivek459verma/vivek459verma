@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 In Crisp:
 ```js
 # Use Recruiter
 
@@ -10,13 +10,6 @@ export const vivek = {
 };
 
 ```
-
-# 💫 In Crisp:
-
-🚀 MERN Stack Developer | Problem Solver  
-💻 Passionate about building scalable web applications  
-🌱 Currently exploring Next.js & system design  
-⚡ Love turning ideas into real-world products 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vivek459verma1699) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_have_vivek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekverma459) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivek459verma@gmail.com) 
